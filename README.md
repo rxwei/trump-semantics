@@ -16,3 +16,4 @@ Join the segments of the binary file
 make join
 ```
 
+Create a new Maven Java project, add EasySRL to dependencies, and deserialize `trump.ccg` to `ArrayList<CCGandSRLparse>`.
